@@ -1,0 +1,7 @@
+version: 1.0
+author: Krysz_
+api-version: 1.20
+description: A plugin of Dedsafio
+main: me.kryz.dedsacore.DedsaCore
+name: DedsaCore
+load: STARTUP

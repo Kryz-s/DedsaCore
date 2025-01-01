@@ -1,0 +1,10 @@
+{
+  "example": "value",
+  "other_value":  [
+    "example",
+    "example_2"
+  ],
+  "keys": {
+    "more": "more more"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "blood_helmet": {
+    "name": "<red>Blood Helmet",
+    "lore": [
+      "<red>The Blood Helmet"
+    ]
+  },
+  "blood_chestplate": {
+    "name": "<red>Blood Chestplate",
+    "lore": [
+      "<red>The Blood Chestplate"
+    ]
+  },
+  "blood_leggings": {
+    "name": "<red>Blood Leggings",
+    "lore": [
+      "<red>The Blood Leggings"
+    ]
+  },
+  "blood_boots": {
+    "name": "<red>Blood Boots",
+    "lore": [
+      "<red>The Blood Boots"
+    ]
+  },
+  "reinforced_redstone_helmet": {
+    "name": "<dark_red>Reinforced Redstone Helmet",
+    "lore": [
+      "<dark_red>The Reinforced Redstone Helmet"
+    ]
+  },
+  "reinforced_redstone_chestplate": {
+    "name": "<dark_red>Reinforced Redstone Chestplate",
+    "lore": [
+      "<dark_red>The Reinforced Redstone Chestplate"
+    ]
+  },
+  "reinforced_redstone_leggings": {
+    "name": "<dark_red>Reinforced Redstone Leggings",
+    "lore": [
+      "<dark_red>The Reinforced Redstone Leggings"
+    ]
+  },
+  "reinforced_redstone_boots": {
+    "name": "<dark_red>Reinforced Redstone Boots",
+    "lore": [
+      "<dark_red>The Reinforced Redstone Boots"
+    ]
+  },
+  "redstone_amulet": {
+    "name": "<red>Redstone Amulet",
+    "lore": [
+      "<red>The Redstone Amulet"
+    ]
+  },
+  "taco": {
+    "name": "<yellow>Taco",
+    "lore": [
+      "<yellow>The Taco"
+    ]
+  },
+  "chef_hat": {
+    "name": "<white>Chef Hat",
+    "lore": [
+      "<white>The Chef Hat"
+    ]
+  },
+  "chef_outfit": {
+    "name": "<white>Chef Outfit",
+    "lore": [
+      "<white>The Chef Outfit"
+    ]
+  },
+  "black_hat": {
+    "name": "<black>Black Hat",
+    "lore": [
+      "<black>The Black Hat"
+    ]
+  },
+  "imploding_crossbow": {
+    "name": "<dark_red>Imploding Crossbow",
+    "lore": [
+      "<dark_red>The Imploding Crossbow"
+    ]
+  },
+  "exploding_crossbow": {
+    "name": "<dark_red>Exploding Crossbow",
+    "lore": [
+      "<dark_red>The Exploding Crossbow"
+    ]
+  },
+  "blacksmith_outfit": {
+    "name": "<gray>Blacksmith Outfit",
+    "lore": [
+      "<gray>The Blacksmith Outfit"
+    ]
+  },
+  "magic_milk": {
+    "name": "<aqua>Magic Milk",
+    "lore": [
+      "<aqua>The Magic Milk"
+    ]
+  },
+  "walking_stick": {
+    "name": "<brown>Walking Stick",
+    "lore": [
+      "<brown>The Walking Stick"
+    ]
+  },
+  "great_hammer": {
+    "name": "<gold>Great Hammer",
+    "lore": [
+      "<gold>The Great Hammer"
+    ]
+  }
+}

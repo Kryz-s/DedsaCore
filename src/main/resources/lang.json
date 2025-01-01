@@ -1,0 +1,12 @@
+{
+  "command.help_message" : [
+    "<red>Los comandos son:",
+    "<yellow>Ninguno"
+  ],
+  "command.reload_success": "<green>Plugin recargado con éxito.",
+  "command.invalid_syntax": "<red>Sintáxis inválida, el correcto es: {0}.",
+  "command.mute_chat": "<green>El estado de mute al chat pasó a: {0}",
+  "command.invalid_argument": "<red>Argumento inválido, argumentos válidos: {0}.",
+  "argument.player_not_exist" : "Este jugador no existe.",
+  "chat.mute_message": "<dark_gray>¡Shh! El chat está desactivado."
+}
